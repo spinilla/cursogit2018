@@ -31,3 +31,6 @@ git remote -v
 Muestra una tabla de repositorios: alias, url, y sentido de sincronización
 git remote add origin URL
 Vincula nuestro repositorio local con un repositorio remoto
+
+Git remote remove origin
+Desvincula nuestro repositorio local con el repositorio remoto
