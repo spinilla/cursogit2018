@@ -1,0 +1,33 @@
+Git y Git Flow
+Comandos Útiles
+
+git init
+Marca el inicio de nuestro proyecto
+
+git status
+Indica el estado de sincronización de nuestro proyecto
+
+git add [...nameFile/s || -A || .]
+Añade fichero/s a la zona de staging
+
+git log
+
+git checkout
+Comando para acceder a un determinado commit o rama
+
+git reset
+Resetea todo nuestro repositorio a un determinado commit o rama, OJO! puede eliminar commits
+
+git branch
+Muestra o Crea una rama nueva a partir de nuestro ‘HEAD’ de la rama actual de trabajo
+
+git checkout -b XXX
+crea una rama XXX a partir de nuestra rama actual, y se accede a ella
+
+git remote
+Muestra la lista de alias de repositorios remotos (origin por defecto
+
+git remote -v
+Muestra una tabla de repositorios: alias, url, y sentido de sincronización
+git remote add origin URL
+Vincula nuestro repositorio local con un repositorio remoto

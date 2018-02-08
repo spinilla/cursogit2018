@@ -1,0 +1,12 @@
+Git y Git Flow
+
+Enlaces:
+
+descarga de Git: https://git-scm.com/downloads
+Git hub (https://github.com):
+
+Descarga de eclipse --> (por si no lo tenéis instalado)
+https://www.eclipse.org/downloads/
+
+Slack en el PC:
+https://slack.com/intl/es-es/downloads/windows
